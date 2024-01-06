@@ -6,9 +6,9 @@ The tocdata package adds information such as an author or artist to an entry in 
 Example:
 
 ~~~
-1 A Challenge  . . . . . . . . . . . . . . . . . . . . . . . . . Hayashi Genbi  4
-2 Astronometer . . . . . . . . . . . . . . . . . . . . . . . . . John Herschel  6
-3 Diagram of a Sunbeam . . . . . . . . . . . . . . . . . . . . . Isaac Newton  10
+1 A Challenge  . . . . . . . Hayashi Genbi  4
+2 Astronometer . . . . . . . John Herschel  6
+3 Diagram of a Sunbeam . . . Isaac Newton  10
 ~~~
 
 The code is at CTAN: https://ctan.org/pkg/tocdata
